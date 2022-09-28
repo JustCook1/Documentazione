@@ -4,6 +4,7 @@ RF
 >criteri di ricerca (dieta robeh)
 >registrazione (mail, password)
 >tutorial alla prima visita?
+>tasto per condividere la ricetta (copia il link della pagina)
 >distinzione utenti:
 
 non autenticati:
