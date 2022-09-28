@@ -26,3 +26,4 @@ RNF
 >prestazioni (ricerca entro 2 secondi)
 >lingua (italiano + inglese eventualmente ma non lo programmiamo l'inglese)
 >privacy (password criptata e non disponibile nemmeno agli sviluppatori)
+
