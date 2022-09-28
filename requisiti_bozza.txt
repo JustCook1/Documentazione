@@ -1,0 +1,27 @@
+RF
+>barra di ricerca
+>dispensa(database)
+>criteri di ricerca (dieta robeh)
+>registrazione (mail, password)
+>tutorial alla prima visita?
+>distinzione utenti:
+
+non autenticati:
+>cercare gli alimenti disponibili (dispensa generale?)
+
+autenticati:
+>deve essere abilitato a commentare e recensire (tipo con le stelle) le ricette
+>deve essere abilitato a caricare immagini della ricetta
+>deve avere un sistema di punti dettato da commenti ecc...(aggiungi un indicazione)
+>sopra un certo punteggio caricare le ricette
+>deve mantenere la dispensa collegata all utente
+>deve togliere gli ingredienti di una ricetta dalla dispensa una volta completata
+
+RNF
+>password forti
+>validazione account tramite mail di conferma
+>intuitivo (l'utente capisce come muoversi per il sito in meno di 5 minuti)
+>adaptive (scalabile su pc -> tablet -> cell)
+>prestazioni (ricerca entro 2 secondi)
+>lingua (italiano + inglese eventualmente ma non lo programmiamo l'inglese)
+>privacy (password criptata e non disponibile nemmeno agli sviluppatori)
