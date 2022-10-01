@@ -4,3 +4,5 @@
 
 28/09 prima stesura requisiti progetto (lezione)
 
+01/10 definizione lato front-end a partire dai requisiti
+
