@@ -6,3 +6,8 @@
 
 01/10 definizione lato front-end a partire dai requisiti
 
+04/10 revisione RF, definizione RNF, condivisione prime bozze mockup e sviluppo di una grafica congruente
+
+
+
+
