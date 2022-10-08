@@ -8,6 +8,7 @@
 
 04/10 revisione RF, definizione RNF, condivisione prime bozze mockup e sviluppo di una grafica congruente
 
+08/10 condivisione mockup, decisione palette mockup, definizione backend, ultimi ritocchi requisiti
 
 
 
